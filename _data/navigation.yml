@@ -3,6 +3,9 @@ main:
   - title: "Portofolio"
     url: /portfolio/
     
+  - title: "CV"
+    url: /cv/
+    
   - title: "Oeuvres 2020"
     url: /oeuvre_2020/
 
