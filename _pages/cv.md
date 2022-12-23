@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BAC S: 2020 - Tle spécialités Math, Physiquechimie + option Math expert
+* BAC S: 2020 - Tle spécialités Math, Physique-chimie + option Math expert
 * FAC MIASHS: 2021 - Mathématique, Inoformatique, Science économiques - Université Paris Nanterre X
 
 Work experience
