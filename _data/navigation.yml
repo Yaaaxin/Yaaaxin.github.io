@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "Portofolio"
     url: /portfolio/
+    
+  - title: "Oeuvres 2020"
+    url: /oeuvre_2020/
+
+  - title: "Oeuvres 2019"
+    url: /oeuvre_2019/    
+
+  - title: "Oeuvres 2018"
+    url: /oeuvre_2018/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Activités"
+    url: /activites/
