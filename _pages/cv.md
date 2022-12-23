@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BAC S: 2020 - Tle spécialités Math, Physiquechimie + option Math expert
+* FAC MIASHS: 2021 - Mathématique, Inoformatique, Science économiques - Université Paris Nanterre X
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Logisticienne
+  * UNESCO Andorre
+  * Envoi, réception, traitement des appels et des courriers électroniques
+  * Traduction des documents: de français à Chinois, Anglais et Espagnol
+  * Design de l'affiches via Photoshop
+  * Traitement du photo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Webmaster
+  * V7 Eat Paris
+  * Correction des vulnérabilités des serveurs web (selon les appels & commentaires du client)
+  * Récupérer la liste des clients abonnés d'un restaurant (nom, prénom, mails inclus), grâce à la fonction crawler
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Design
+  * Adobe Illustraor
+  * Adobe Photoshop
+* Codage
+  * Langage C/C++
+  * Python
+  * Matlab
+* Rédaction LaTex
